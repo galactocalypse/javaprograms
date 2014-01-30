@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=markslength
+comment0.target=DEMO(int)
+comment1.target=DEMO()
+comment2.target=void\ input()
+comment3.params=s
+comment3.target=String\ inp(String)
+comment4.target=void\ disp()
+comment5.params=args
+comment5.target=void\ main([)
+numComments=6

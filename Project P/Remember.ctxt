@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ Remember
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment10.params=r\ c\ d\ g
+comment10.target=void\ write(int,int,String,Graphics)
+comment11.target=rows
+comment2.target=coly
+comment3.target=colx
+comment4.target=colwidth
+comment5.target=celly
+comment6.target=cellx
+comment7.target=cols
+comment8.target=rowheight
+comment9.params=
+comment9.target=void\ init()
+numComments=12

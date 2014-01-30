@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ Rt
+comment1.params=e
+comment1.target=void\ keyPressed(KeyEvent)
+comment10.target=p1
+comment11.params=
+comment11.target=void\ init()
+comment2.params=p\ x\ y\ deg
+comment2.target=Point2D\ rotate(Point2D,double,double,double)
+comment3.params=g1
+comment3.target=void\ paint(Graphics)
+comment4.params=e
+comment4.target=void\ keyReleased(KeyEvent)
+comment5.target=b
+comment6.params=e
+comment6.target=void\ keyTyped(KeyEvent)
+comment7.target=pb
+comment8.target=a
+comment9.target=pa
+numComments=12

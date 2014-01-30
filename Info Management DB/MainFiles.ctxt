@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ MainFiles
+comment1.target=users
+comment2.params=arr
+comment2.target=int[]\ getInt(String[])
+comment3.params=
+comment3.target=void\ createStats()
+comment4.params=
+comment4.target=MainFiles()
+comment5.target=articles
+comment6.target=stats
+comment7.target=root
+comment8.params=
+comment8.target=void\ checkFiles()
+comment9.params=s
+comment9.target=String[]\ removeExt(String[])
+numComments=10

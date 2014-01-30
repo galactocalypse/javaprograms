@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=String[]\ getCode([)
+comment1.params=str
+comment1.target=String[]\ rev([)
+comment2.params=str\ ch
+comment2.target=String[]\ mul([,\ char)
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ Time
+comment1.target=m
+comment2.params=
+comment2.target=int\ getRemaining()
+comment3.params=
+comment3.target=int\ getSpent()
+comment4.params=
+comment4.target=Time()
+comment5.target=s
+comment6.target=h
+numComments=7

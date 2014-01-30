@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Smlinklist()
+comment1.params=value
+comment1.target=void\ insert_at_beg(int)
+comment2.target=void\ display()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ Anmim
+comment1.params=g\ x\ y\ wd\ ht\ type
+comment1.target=void\ drawIt(Graphics,int,int,int,int,int)
+comment2.params=g
+comment2.target=void\ paint(Graphics)
+comment3.params=
+comment3.target=void\ init()
+numComments=4

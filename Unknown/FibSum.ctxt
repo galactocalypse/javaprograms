@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FibSum()
+comment1.params=n
+comment1.target=void\ accept(int)
+comment2.target=void\ accept()
+comment3.params=n\ a\ b
+comment3.target=int\ getSum(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main([)
+numComments=5

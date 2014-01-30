@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ Encyclopedia
+comment1.params=s
+comment1.target=Article\ searchResult(String)
+comment2.target=b
+comment3.params=s
+comment3.target=ArticleList\ search(String)
+comment4.params=keyword
+comment4.target=void\ searchWord(String)
+comment5.params=bu
+comment5.target=Encyclopedia(Buffer)
+numComments=6

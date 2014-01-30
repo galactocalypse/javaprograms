@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=String[]\ getFileData(File)
+comment1.target=Record[]\ getRecs()
+numComments=2

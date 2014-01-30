@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ MoeSyntaxEditorKit
+comment0.text=\nAn\ implementation\ of\ <code>EditorKit</code>\ used\ for\ syntax\ coloring.\nThis\ is\ an\ adaptation\ of\ the\ SyntaxEditorKit\ class\ from\ JEdit\ for\ BlueJ.\n@\n@author\ Michael\ Kolling\n\n\n\n
+comment1.params=
+comment1.target=ViewFactory\ getViewFactory()
+comment1.text=\nReturns\ an\ instance\ of\ a\ view\ factory\ that\ can\ be\ used\ for\ncreating\ views\ from\ elements.\ This\ implementation\ returns\nthe\ current\ instance,\ because\ this\ class\ already\ implements\n<code>ViewFactory</code>.\n\n
+comment2.params=
+comment2.target=Document\ createDefaultDocument()
+comment2.text=\nCreates\ a\ new\ instance\ of\ the\ default\ document\ for\ this\neditor\ kit.\ This\ returns\ a\ new\ instance\ of\n<code>DefaultSyntaxDocument</code>.\n\n\n
+comment3.params=elem
+comment3.target=View\ create(Element)
+comment3.text=\nCreates\ a\ view\ from\ an\ element\ that\ can\ be\ used\ for\ painting\ that\nelement.\ This\ implementation\ returns\ a\ new\ <code>SyntaxView</code>\ninstance.\n@param\ elem\ The\ element\n@return\ a\ new\ MoeSyntaxView\ for\ an\ element\n\n\n
+comment4.target=isTextEval
+comment5.params=textEval
+comment5.target=MoeSyntaxEditorKit(boolean)
+comment5.text=\nCreate\ a\ moe\ editor\ kit.\ There\ are\ two\ modes\ in\ which\ this\ can\ operate\:\nas\ an\ editor\ kit\ for\ the\ standard\ editor\ (textEval\ \=\=\ false)\ or\ as\ an\neditor\ kit\ for\ the\ text\ evaluation\ area\ (textEval\ \=\=\ true).\n\n@param\ textEval\ \ Indicate\ whether\ to\ operate\ for\ the\ text\ eval\ area\n\n
+numComments=6

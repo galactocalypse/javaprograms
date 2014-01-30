@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=blocks\ dir
+comment0.target=Bars(int,\ int)
+comment1.target=void\ changeLim()
+comment2.target=void\ process()
+numComments=3

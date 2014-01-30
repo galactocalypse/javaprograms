@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ Animated
+comment1.params=c\ str\ width\ height\ fs
+comment1.target=Animated(Container,String,int,int,int)
+comment2.target=h
+comment3.params=
+comment3.target=Image\ give()
+comment4.target=comp
+comment5.target=f
+comment6.params=
+comment6.target=Image\ ret()
+comment7.target=flag
+comment8.target=str
+comment9.target=w
+numComments=10

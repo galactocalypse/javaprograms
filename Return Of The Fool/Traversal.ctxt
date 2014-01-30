@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=String\ getPost(String)
+comment1.params=ch
+comment1.target=boolean\ isOperand(char)
+comment2.params=ch
+comment2.target=boolean\ isOperator(char)
+comment3.params=c1\ c2
+comment3.target=boolean\ preceeds(char,\ char)
+numComments=4

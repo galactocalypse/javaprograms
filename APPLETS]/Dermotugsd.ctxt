@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ Dermotugsd
+comment1.params=g\ x\ y\ w\ h\ dpt\ l\ flag
+comment1.target=void\ draw3DR(Graphics,int,int,int,int,int,int,int)
+comment2.params=g
+comment2.target=void\ paintBg(Graphics)
+comment3.params=g1
+comment3.target=void\ paint(Graphics)
+comment4.params=
+comment4.target=void\ init()
+numComments=5

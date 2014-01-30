@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ Dmeo
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s
+comment2.target=void\ disp(String[])
+comment3.params=s
+comment3.target=String[]\ sort(String[])
+numComments=4

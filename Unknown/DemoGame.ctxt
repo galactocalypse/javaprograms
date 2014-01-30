@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=v
+comment1.target=void\ wait(int)
+comment2.params=g1
+comment2.target=void\ paint(Graphics)
+comment3.target=boolean\ caught()
+comment4.target=void\ run()
+comment5.target=void\ destroy()
+comment6.params=e
+comment6.target=void\ keyPressed(KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(KeyEvent)
+comment9.target=boolean\ hasWon()
+numComments=10

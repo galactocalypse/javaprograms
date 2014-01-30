@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=class\ Printer
+comment1.target=amts
+comment10.target=ptc
+comment11.target=qty
+comment12.params=r\ g\ s\ f
+comment12.target=void\ pt(Rectangle,Graphics,String[],Font)
+comment2.target=name
+comment3.target=date
+comment4.target=invnum
+comment5.target=ntw
+comment6.target=rts
+comment7.params=g
+comment7.target=void\ paint(Graphics)
+comment8.params=
+comment8.target=Printer()
+comment9.target=prs
+numComments=13

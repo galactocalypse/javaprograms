@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=Record([)
+comment1.params=name\ address\ phno\ date\ mth\ yr
+comment1.target=Record(String,\ String,\ String,\ String,\ String,\ String)
+comment2.params=str
+comment2.target=String\ accept(String)
+comment3.target=void\ input()
+numComments=4

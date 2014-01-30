@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=e
+comment2.target=void\ keyPressed(KeyEvent)
+comment3.params=e
+comment3.target=void\ keyReleased(KeyEvent)
+comment4.params=e
+comment4.target=void\ keyTyped(KeyEvent)
+numComments=5

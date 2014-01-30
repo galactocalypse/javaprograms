@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ RottenLine
+comment1.target=rng
+comment2.target=p
+comment3.params=
+comment3.target=void\ run()
+comment4.target=cy
+comment5.target=cx
+comment6.params=g
+comment6.target=void\ paint(Graphics)
+comment7.target=rad
+comment8.params=
+comment8.target=void\ init()
+comment9.target=t
+numComments=10

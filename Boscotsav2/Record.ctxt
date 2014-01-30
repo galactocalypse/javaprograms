@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Record()
+comment0.text=\nAccessController.doPrivileged(new\ PrivilegedAction()\ {\npublic\ Object\ run()\ {\nString\ path\ \=\ \nSystem.getProperty("user.home")\ +\nFile.separator\ +\ \n".score";\nfilex\ \=\ new\ File(path);\nreturn\ null;\n}\n});\n\n
+comment1.params=image\ level
+comment1.target=Record(Image,\ int)
+comment10.target=void\ save()
+comment10.text=\npublic\ void\ save(int\ score,int\ levelsCrossed,File\ f){\ntry{\nPrintWriter\ pw\=new\ PrintWriter(new\ FileWriter(f));\njava.util.Date\ dt\=new\ java.util.Date();\npw.println("Score\ \:\ "+score);\npw.println("Levels\ crossed\ \:\ "+levelsCrossed);\npw.println("Time\ \:\ "+dt.getHours()+"\:"+dt.getMinutes());\npw.flush();\npw.close();\n}\ncatch(Exception\ e){}\n}\n\n
+comment11.target=void\ run()
+comment12.target=void\ destroy()
+comment2.target=Image\ getImage()
+comment3.target=String\ getCaption()
+comment4.target=String\ getHint()
+comment5.target=String\ getPassword()
+comment6.params=i
+comment6.target=String\ getPass(int)
+comment7.params=i
+comment7.target=String\ getDesc(int)
+comment8.params=i
+comment8.target=String\ getHint(int)
+comment9.params=i
+comment9.target=String\ getCap(int)
+numComments=13

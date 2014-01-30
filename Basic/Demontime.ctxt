@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g1
+comment0.target=void\ paint(Graphics)
+comment1.params=angle\ size
+comment1.target=Image\ getImg(int,\ int)
+numComments=2

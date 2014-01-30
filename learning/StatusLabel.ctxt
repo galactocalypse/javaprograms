@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ StatusLabel
+comment0.text=\nhg\n\n\n
+comment1.target=state
+comment10.target=CHANGED
+comment11.params=
+comment11.target=boolean\ isChanged()
+comment2.target=stateString
+comment3.params=initialState
+comment3.target=StatusLabel(int)
+comment4.target=statusFont
+comment5.params=newState
+comment5.target=void\ setState(int)
+comment6.params=
+comment6.target=boolean\ isReadOnly()
+comment7.target=SAVED
+comment8.target=READONLY
+comment9.params=
+comment9.target=boolean\ isSaved()
+numComments=12

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ Dermo54t
+comment1.target=rng
+comment2.target=t
+comment3.params=
+comment3.target=void\ run()
+comment4.params=g1
+comment4.target=void\ paint(Graphics)
+comment5.params=
+comment5.target=void\ init()
+numComments=6

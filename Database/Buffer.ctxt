@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=class\ Buffer
+comment1.target=r
+comment10.target=a
+comment11.params=
+comment11.target=void\ store()
+comment12.target=w
+comment13.params=
+comment13.target=void\ load()
+comment14.target=st
+comment2.target=users
+comment3.target=resources
+comment4.params=
+comment4.target=void\ checkMainFiles()
+comment5.params=
+comment5.target=Buffer()
+comment6.params=
+comment6.target=void\ checkMainDirectories()
+comment7.target=articles
+comment8.params=
+comment8.target=void\ refresh()
+comment9.target=words
+numComments=15

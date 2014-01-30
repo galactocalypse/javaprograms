@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Record()
+comment1.params=image\ level
+comment1.target=Record(Image,\ int)
+comment2.target=Image\ getImage()
+comment3.target=String\ getCaption()
+comment4.target=String\ getHint()
+comment5.target=String\ getPassword()
+comment6.params=i
+comment6.target=String\ getPass(int)
+comment7.params=i
+comment7.target=String\ getDesc(int)
+comment8.params=i
+comment8.target=String\ getHint(int)
+comment9.params=i
+comment9.target=String\ getCap(int)
+numComments=10

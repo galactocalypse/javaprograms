@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=class\ Article
+comment1.target=name
+comment10.target=d
+comment11.params=
+comment11.target=void\ disp()
+comment2.target=id
+comment3.params=
+comment3.target=String[]\ getInfo()
+comment4.params=s
+comment4.target=boolean\ lookUp(String)
+comment5.params=id\ n\ k\ s
+comment5.target=Article(int,String,String[],String[])
+comment6.params=
+comment6.target=Article()
+comment7.params=s
+comment7.target=String\ getLSV(String[])
+comment8.target=keywords
+comment9.params=s
+comment9.target=String\ getCSV(String[])
+numComments=12

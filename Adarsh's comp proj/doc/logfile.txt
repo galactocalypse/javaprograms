@@ -1,0 +1,47 @@
+Project documentation
+<---- javadoc command: ---->
+c:\j2sdk1.4.2_04\bin\javadoc.exe
+-sourcepath
+C:\Documents and Settings\AY\Desktop\Adarsh's comp proj
+-classpath
+C:\BlueJ\lib\junit.jar
+-d
+C:\Documents and Settings\AY\Desktop\Adarsh's comp proj\doc
+-source
+1.4
+-doctitle
+Adarsh's comp proj
+-windowtitle
+Adarsh's comp proj
+-link
+http://java.sun.com/j2se/1.5/docs/api/
+-author
+-version
+-nodeprecated
+-package
+<---- end of javadoc command ---->
+javadoc: No packages or classes specified.
+usage: javadoc [options] [packagenames] [sourcefiles] [classnames] [@files]
+-overview <file>          Read overview documentation from HTML file
+-public                   Show only public classes and members
+-protected                Show protected/public classes and members (default)
+-package                  Show package/protected/public classes and members
+-private                  Show all classes and members
+-help                     Display command line options and exit
+-doclet <class>           Generate output via alternate doclet
+-docletpath <path>        Specify where to find doclet class files
+-sourcepath <pathlist>    Specify where to find source files
+-classpath <pathlist>     Specify where to find user class files
+-exclude <pkglist>        Specify a list of packages to exclude
+-subpackages <subpkglist> Specify subpackages to recursively load
+-breakiterator            Compute 1st sentence with BreakIterator
+-bootclasspath <pathlist> Override location of class files loaded
+			  by the bootstrap class loader
+-source <release>         Provide source compatibility with specified release
+-extdirs <dirlist>        Override location of installed extensions
+-verbose                  Output messages about what Javadoc is doing
+-locale <name>            Locale to be used, e.g. en_US or en_US_WIN
+-encoding <name>          Source file encoding name
+-J<flag>                  Pass <flag> directly to the runtime system
+
+1 error

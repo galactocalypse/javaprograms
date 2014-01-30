@@ -1,0 +1,319 @@
+Class documentation
+<---- javadoc command: ---->
+C:\j2sdk1.4.2_04\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+D:\Adarsh's Documents\Java\Restart\doc
+-classpath
+C:\BlueJ\lib\junit.jar
+D:\Adarsh's Documents\Java\Restart\ss.java
+<---- end of javadoc command ---->
+Loading source file D:\Adarsh's Documents\Java\Restart\ss.java...
+D:\Adarsh's Documents\Java\Restart\ss.java:135: illegal character: \8217
+                                if(transType==’W’){
+                                              ^
+D:\Adarsh's Documents\Java\Restart\ss.java:135: illegal character: \8217
+                                if(transType==’W’){
+                                                ^
+D:\Adarsh's Documents\Java\Restart\ss.java:141: illegal character: \8217
+                                                if(type1==’C’){
+                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:141: illegal character: \8217
+                                                if(type1==’C’){
+                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:163: illegal character: \96
+                `               if(type1==’P’){
+                ^
+D:\Adarsh's Documents\Java\Restart\ss.java:163: illegal character: \8217
+                `               if(type1==’P’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:163: illegal character: \8217
+                `               if(type1==’P’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:175: illegal character: \8220
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:175: unclosed string literal
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                                      ^
+D:\Adarsh's Documents\Java\Restart\ss.java:185: illegal character: \8217
+                                if(type1==’S’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:185: illegal character: \8217
+                                if(type1==’S’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:197: illegal character: \8220
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:197: unclosed string literal
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                                      ^
+D:\Adarsh's Documents\Java\Restart\ss.java:205: illegal character: \8217
+                                if(type1==’L’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:205: illegal character: \8217
+                                if(type1==’L’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:217: illegal character: \8220
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:217: unclosed string literal
+                                                                                System.out.println(“Insufficient funds");
+                                                                                                                      ^
+D:\Adarsh's Documents\Java\Restart\ss.java:227: illegal character: \8217
+                                if(transType==’I’){
+                                              ^
+D:\Adarsh's Documents\Java\Restart\ss.java:227: illegal character: \8217
+                                if(transType==’I’){
+                                                ^
+D:\Adarsh's Documents\Java\Restart\ss.java:233: illegal character: \8217
+                                                if((type1==’P’)&&(P.getBalance()>=500))             {
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:233: illegal character: \8217
+                                                if((type1==’P’)&&(P.getBalance()>=500))             {
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:245: illegal character: \8217
+                                                if((type1==’S’)&&(S.getBalance()>=500))              {
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:245: illegal character: \8217
+                                                if((type1==’S’)&&(S.getBalance()>=500))              {
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:255: illegal character: \8217
+                                                if((type1==’L’)&&(L.getBalance()>=500))              {
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:255: illegal character: \8217
+                                                if((type1==’L’)&&(L.getBalance()>=500))              {
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:267: illegal character: \8217
+                                if(transType==’T’){
+                                              ^
+D:\Adarsh's Documents\Java\Restart\ss.java:267: illegal character: \8217
+                                if(transType==’T’){
+                                                ^
+D:\Adarsh's Documents\Java\Restart\ss.java:273: illegal character: \8217
+                                                if((type1==’C’){
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:273: illegal character: \8217
+                                                if((type1==’C’){
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:275: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:275: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:287: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:287: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:299: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:299: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:315: illegal character: \8217
+                                                if((type1==’P’){
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:315: illegal character: \8217
+                                                if((type1==’P’){
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:317: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:317: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:329: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:329: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:341: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:341: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:355: illegal character: \8217
+                                                if((type1==’S’){
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:355: illegal character: \8217
+                                                if((type1==’S’){
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:357: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:357: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:369: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:369: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:381: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:381: illegal character: \8217
+                                                                if(type2==’L’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:395: illegal character: \8217
+                                                if((type1==’L’){
+                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:395: illegal character: \8217
+                                                if((type1==’L’){
+                                                             ^
+D:\Adarsh's Documents\Java\Restart\ss.java:397: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:397: illegal character: \8217
+                                                                if(type2==’P’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:409: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:409: illegal character: \8217
+                                                                if(type2==’S’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:421: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:421: illegal character: \8217
+                                                                if(type2==’C’){
+                                                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:437: illegal character: \8217
+                if(transType==’G’){
+                              ^
+D:\Adarsh's Documents\Java\Restart\ss.java:437: illegal character: \8217
+                if(transType==’G’){
+                                ^
+D:\Adarsh's Documents\Java\Restart\ss.java:441: illegal character: \8217
+                                if(type1==’C’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:441: illegal character: \8217
+                                if(type1==’C’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:445: illegal character: \8220
+System.out.println(“Your balance in checking is $"+temp);
+                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:445: unclosed string literal
+System.out.println(“Your balance in checking is $"+temp);
+                                                 ^
+D:\Adarsh's Documents\Java\Restart\ss.java:449: illegal character: \8217
+                                if(type1==’P’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:449: illegal character: \8217
+                                if(type1==’P’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:453: illegal character: \8220
+System.out.println(“Your balance in checking is $"+temp);
+                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:453: unclosed string literal
+System.out.println(“Your balance in checking is $"+temp);
+                                                 ^
+D:\Adarsh's Documents\Java\Restart\ss.java:457: illegal character: \8217
+                                if(type1==’S’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:457: illegal character: \8217
+                                if(type1==’S’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:461: illegal character: \8220
+System.out.println(“Your balance in checking is $"+temp);
+                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:461: unclosed string literal
+System.out.println(“Your balance in checking is $"+temp);
+                                                 ^
+D:\Adarsh's Documents\Java\Restart\ss.java:465: illegal character: \8217
+                                if(type1==’L’){
+                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:465: illegal character: \8217
+                                if(type1==’L’){
+                                            ^
+D:\Adarsh's Documents\Java\Restart\ss.java:469: illegal character: \8220
+System.out.println(“Your balance in checking is $"+temp);
+                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:469: unclosed string literal
+System.out.println(“Your balance in checking is $"+temp);
+                                                 ^
+D:\Adarsh's Documents\Java\Restart\ss.java:477: illegal character: \8220
+                System.out.println(“Account Information");
+                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:477: unclosed string literal
+                System.out.println(“Account Information");
+                                                       ^
+D:\Adarsh's Documents\Java\Restart\ss.java:479: illegal character: \8220
+                System.out.println(“C.accountNumber      C.ownersName        C.getBalance()");
+                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:479: unclosed string literal
+                System.out.println(“C.accountNumber      C.ownersName        C.getBalance()");
+                                                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:481: illegal character: \8220
+                System.out.println(“P.accountNumber      P.ownersName        P.getBalance()");
+                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:481: unclosed string literal
+                System.out.println(“P.accountNumber      P.ownersName        P.getBalance()");
+                                                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:483: illegal character: \8220
+                System.out.println(“S.accountNumber      S.ownersName        S.getBalance()");
+                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:483: unclosed string literal
+                System.out.println(“S.accountNumber      S.ownersName        S.getBalance()");
+                                                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:485: illegal character: \8220
+                System.out.println(“L.accountNumber      L.ownersName        L.getBalance()");
+                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:485: unclosed string literal
+                System.out.println(“L.accountNumber      L.ownersName        L.getBalance()");
+                                                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:486: ')' expected
+^
+D:\Adarsh's Documents\Java\Restart\ss.java:487: illegal start of expression
+}
+^
+D:\Adarsh's Documents\Java\Restart\ss.java:493: illegal start of expression
+public static void action (String actionTaken, double amount, String acct1, String acct2, boolean cheater){
+^
+D:\Adarsh's Documents\Java\Restart\ss.java:495: illegal character: \8220
+                if((cheater=true)&&(acct1.equals(“checking"))){
+                                                 ^
+D:\Adarsh's Documents\Java\Restart\ss.java:495: unclosed string literal
+                if((cheater=true)&&(acct1.equals(“checking"))){
+                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:497: illegal character: \8220
+                                System.out.println(“You TRIED to overdraw your account!Your primary savings account has been debited $15.00 and the difference was covered")             ;
+                                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:497: unclosed string literal
+                                System.out.println(“You TRIED to overdraw your account!Your primary savings account has been debited $15.00 and the difference was covered")             ;
+                                                                                                                                                                          ^
+D:\Adarsh's Documents\Java\Restart\ss.java:501: illegal character: \8220
+                if(actionTaken.equals(“withdrew")){
+                                      ^
+D:\Adarsh's Documents\Java\Restart\ss.java:501: unclosed string literal
+                if(actionTaken.equals(“withdrew")){
+                                               ^
+D:\Adarsh's Documents\Java\Restart\ss.java:503: illegal character: \8220
+                                System.out.prinltn(“You "+actionTaken+"$"+amount+"from your"+acct1+"account");
+                                                   ^
+D:\Adarsh's Documents\Java\Restart\ss.java:503: unclosed string literal
+                                System.out.prinltn(“You "+actionTaken+"$"+amount+"from your"+acct1+"account");
+                                                                                                           ^
+D:\Adarsh's Documents\Java\Restart\ss.java:504: ';' expected
+^
+D:\Adarsh's Documents\Java\Restart\ss.java:507: illegal start of type
+                if(actionTaken.equals(“deposited")){
+                ^
+100 errors

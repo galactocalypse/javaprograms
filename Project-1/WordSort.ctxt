@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ WordSort
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s
+comment2.target=String\ input(String)
+comment3.params=
+comment3.target=int\ countduplicatewords()
+comment4.params=
+comment4.target=String\ swapwords()
+comment5.params=b
+comment5.target=void\ arrangewords(boolean)
+comment6.target=str
+comment7.params=s1\ s2
+comment7.target=boolean\ isGreater(String,String)
+numComments=8

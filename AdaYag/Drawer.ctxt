@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ Drawer
+comment1.target=rng
+comment2.target=p
+comment3.params=
+comment3.target=void\ run()
+comment4.target=angle
+comment5.params=g\ p1\ p2
+comment5.target=void\ paintIt(Graphics2D,Point2D[],Point2D[])
+comment6.target=b
+comment7.target=a
+comment8.params=
+comment8.target=void\ init()
+comment9.target=t
+numComments=10

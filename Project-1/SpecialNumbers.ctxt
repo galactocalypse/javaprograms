@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=class\ SpecialNumbers
+comment1.params=
+comment1.target=SpecialNumbers()
+comment10.params=x
+comment10.target=int\ sumOfDivisors(int)
+comment2.params=x\ y
+comment2.target=SpecialNumbers(int,int)
+comment3.target=n
+comment4.target=m
+comment5.params=args
+comment5.target=void\ main(String[])
+comment6.params=
+comment6.target=boolean\ compatible()
+comment7.params=x
+comment7.target=boolean\ admirable(int)
+comment8.params=
+comment8.target=boolean\ abundant()
+comment9.params=s
+comment9.target=int\ input(String)
+numComments=11

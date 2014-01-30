@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ Reader
+comment1.params=s
+comment1.target=int\ getInt(String)
+comment2.params=s
+comment2.target=String\ input(String)
+comment3.params=s
+comment3.target=String\ getOnlyName(String)
+comment4.params=s
+comment4.target=String[]\ removeExt(String[])
+comment5.params=f
+comment5.target=String[]\ readArr(File)
+comment6.params=f
+comment6.target=String\ read(File)
+numComments=7

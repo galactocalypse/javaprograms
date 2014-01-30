@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=evt\ obj
+comment1.target=boolean\ action(Event,\ Object)
+comment2.target=void\ BitSetTest()
+numComments=3

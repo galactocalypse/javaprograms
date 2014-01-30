@@ -1,0 +1,24 @@
+Class documentation
+<---- javadoc command: ---->
+c:\program files\j2sdk1.4.2_04\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+D:\Adarsh's Documents\Java\ProjectZ\doc
+-classpath
+C:\Program Files\BlueJ\lib\junit.jar
+D:\Adarsh's Documents\Java\ProjectZ\Circall.java
+<---- end of javadoc command ---->
+Loading source file D:\Adarsh's Documents\Java\ProjectZ\Circall.java...
+D:\Adarsh's Documents\Java\ProjectZ\Circall.java:44: ';' expected
+getGraphics().drawImage(img,0,0,this)l
+                                     ^
+1 error

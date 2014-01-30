@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ Element
+comment1.params=
+comment1.target=String[]\ getString()
+comment2.params=id\ name
+comment2.target=Element(int,String)
+comment3.params=
+comment3.target=Element()
+comment4.params=i
+comment4.target=Element(int)
+comment5.target=name
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=
+comment7.target=String\ getName()
+comment8.target=id
+numComments=9

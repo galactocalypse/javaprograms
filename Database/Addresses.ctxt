@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=class\ Addresses
+comment1.params=
+comment1.target=File[]\ getMainFileList()
+comment10.target=root
+comment11.target=dictionary
+comment2.target=resources
+comment3.params=u
+comment3.target=File\ getUserAccount(User)
+comment4.target=useraccounts
+comment5.target=articles
+comment6.params=
+comment6.target=File[]\ getMainDirectoryList()
+comment7.target=stats
+comment8.target=useridstart
+comment9.params=a
+comment9.target=File\ getArticle(Article)
+numComments=12

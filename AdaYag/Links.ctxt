@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ Links
+comment1.target=tpc
+comment2.params=
+comment2.target=void\ chkTopicExistnece()
+comment3.target=s
+comment4.params=t
+comment4.target=void\ addLink(Topic)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ PointHandler
+comment1.params=a\ b\ angle
+comment1.target=UserPoint[]\ getPoints(int,int,int)
+comment2.params=u
+comment2.target=UserPoint[]\ updatePoints(UserPoint[])
+comment3.params=a\ b\ angle
+comment3.target=UserPoint[]\ getSecondSet(int,int,int)
+numComments=4

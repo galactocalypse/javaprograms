@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ TextUtilities
+comment0.text=\nClass\ with\ several\ utility\ functions\ used\ by\ the\ text\ area\ component.\n@author\ Slava\ Pestov\n@version\ $Id\:\ TextUtilities.java\ 6163\ 2009-02-19\ 18\:09\:55Z\ polle\ $\n\n
+comment1.params=line\ pos\ noWordSep
+comment1.target=int\ findWordStart(String,int,String)
+comment1.text=\nLocates\ the\ start\ of\ the\ word\ at\ the\ specified\ position.\n@param\ line\ The\ text\n@param\ pos\ The\ position\n\n
+comment2.params=line\ pos\ noWordSep
+comment2.target=int\ findWordEnd(String,int,String)
+comment2.text=\nLocates\ the\ end\ of\ the\ word\ at\ the\ specified\ position.\n@param\ line\ The\ text\n@param\ pos\ The\ position\n\n
+comment3.params=doc\ offset
+comment3.target=int\ findMatchingBracket(Document,int)
+comment3.text=\nReturns\ the\ offset\ of\ the\ bracket\ matching\ the\ one\ at\ the\nspecified\ offset\ of\ the\ document,\ or\ -1\ if\ the\ bracket\ is\nunmatched\ (or\ if\ the\ character\ is\ not\ a\ bracket).\n@param\ doc\ The\ document\n@param\ offset\ The\ offset\n@exception\ BadLocationException\ If\ an\ out-of-bounds\ access\nwas\ attempted\ on\ the\ document\ text\n\n
+numComments=4

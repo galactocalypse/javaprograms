@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=class\ ShadesWow
+comment1.params=g\ x\ y\ w\ h\ size
+comment1.target=void\ drawBox(Graphics,int,int,int,int,int)
+comment2.params=g
+comment2.target=void\ paint(Graphics)
+numComments=3

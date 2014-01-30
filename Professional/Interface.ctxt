@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ Interface
+comment1.target=state
+comment10.target=reset
+comment11.target=submit
+comment12.target=dob
+comment13.params=e
+comment13.target=void\ actionPerformed(ActionEvent)
+comment14.params=
+comment14.target=void\ init()
+comment2.target=name
+comment3.target=addno
+comment4.target=country
+comment5.target=addline3
+comment6.target=addline2
+comment7.target=city
+comment8.target=addline1
+comment9.target=ph
+numComments=15

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX11E()
+comment1.target=void\ init()
+comment2.params=o\ arg
+comment2.target=void\ update(Observable,\ Object)
+comment3.params=evt\ obj
+comment3.target=boolean\ action(Event,\ Object)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g\ x\ y\ width\ height
+comment0.target=void\ drawBox(Graphics,\ int,\ int,\ int,\ int)
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+numComments=2

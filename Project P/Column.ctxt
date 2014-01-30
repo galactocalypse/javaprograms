@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Image\ getTitleImage(Panel)
+comment1.target=Color\ getBackground()
+comment2.target=Color\ getForeground()
+numComments=3

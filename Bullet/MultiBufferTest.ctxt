@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numBuffers\ device
+comment0.target=MultiBufferTest(int,\ GraphicsDevice)
+comment1.params=device
+comment1.target=DisplayMode\ getBestDisplayMode(GraphicsDevice)
+comment2.params=device
+comment2.target=void\ chooseBestDisplayMode(GraphicsDevice)
+comment3.params=args
+comment3.target=void\ main(String[])
+numComments=4

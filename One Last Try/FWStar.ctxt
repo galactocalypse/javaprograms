@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ FWStar
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=
+comment2.target=int\ input()
+comment3.params=n
+comment3.target=void\ disp(int)
+numComments=4

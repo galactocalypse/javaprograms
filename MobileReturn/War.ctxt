@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.target=void\ updt()
+comment2.target=boolean\ checkIntersection()
+comment3.params=g1
+comment3.target=void\ paint(Graphics)
+comment4.target=void\ run()
+comment5.params=e
+comment5.target=void\ keyTyped(KeyEvent)
+comment6.params=e
+comment6.target=void\ keyPressed(KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(KeyEvent)
+comment8.target=void\ fire()
+comment9.params=fb
+comment9.target=void\ add(FireBall)
+numComments=10

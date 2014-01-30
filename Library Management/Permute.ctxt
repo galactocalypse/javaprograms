@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=class\ Permute
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s1\ s2
+comment2.target=void\ disp(String,String)
+numComments=3

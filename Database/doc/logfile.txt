@@ -1,0 +1,49 @@
+Class documentation
+<---- javadoc command: ---->
+c:\sun\appserver\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+D:\Adarsh's Documents\Java\Database\doc
+-classpath
+C:\BlueJ\lib\junit.jar
+D:\Adarsh's Documents\Java\Database\Buffer.java
+<---- end of javadoc command ---->
+Loading source file D:\Adarsh's Documents\Java\Database\Buffer.java...
+Constructing Javadoc information...
+D:\Adarsh's Documents\Java\Database\Buffer.java:3: cannot resolve symbol
+symbol  : class ElementList 
+location: class Buffer
+ElementList users,articles,resources,words;
+^
+D:\Adarsh's Documents\Java\Database\Buffer.java:6: cannot resolve symbol
+symbol  : class Addresses 
+location: class Buffer
+final Addresses a;
+      ^
+D:\Adarsh's Documents\Java\Database\Buffer.java:7: cannot resolve symbol
+symbol  : class Stats 
+location: class Buffer
+final Stats st;
+      ^
+Standard Doclet version 1.4.2_04
+Generating D:\Adarsh's Documents\Java\Database\doc\constant-values.html...
+Building tree for all the packages and classes...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\Adarsh's Documents\Java\Database\doc\allclasses-frame.html...
+Generating D:\Adarsh's Documents\Java\Database\doc\allclasses-noframe.html...
+Generating D:\Adarsh's Documents\Java\Database\doc\index.html...
+Generating D:\Adarsh's Documents\Java\Database\doc\packages.html...
+Generating D:\Adarsh's Documents\Java\Database\doc\Buffer.html...
+Generating D:\Adarsh's Documents\Java\Database\doc\package-list...
+Generating D:\Adarsh's Documents\Java\Database\doc\stylesheet.css...
+3 warnings

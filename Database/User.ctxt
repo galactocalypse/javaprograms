@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=class\ User
+comment1.params=s
+comment1.target=boolean\ usernameExists(String)
+comment10.target=location
+comment11.target=dob
+comment12.target=password
+comment13.target=datejoined
+comment14.params=
+comment14.target=String\ getCurrentDate()
+comment2.params=
+comment2.target=String[]\ getString()
+comment3.target=activity
+comment4.params=s
+comment4.target=boolean\ isValidDate(String)
+comment5.params=xid
+comment5.target=User\ getUser(int)
+comment6.target=email
+comment7.params=s
+comment7.target=boolean\ isValidEmail(String)
+comment8.params=i\ n\ pwd\ e\ d\ loc\ dj\ a
+comment8.target=User(int,String,String,String,String,String,String,int)
+comment9.params=
+comment9.target=User()
+numComments=15

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ PrintDoc
+comment1.params=g\ pf\ page
+comment1.target=int\ print(Graphics,PageFormat,int)
+comment2.params=
+comment2.target=void\ printIt()
+comment3.params=
+comment3.target=PrintDoc()
+numComments=4

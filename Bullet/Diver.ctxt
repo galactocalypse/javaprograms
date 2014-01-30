@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g\ x\ y\ w\ h\ dir
+comment0.target=void\ box(Graphics,\ int,\ int,\ int,\ int,\ int)
+comment1.params=g\ x\ y\ w\ h
+comment1.target=void\ box2(Graphics,\ int,\ int,\ int,\ int)
+numComments=2

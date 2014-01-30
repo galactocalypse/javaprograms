@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=class\ Demo
+comment1.params=
+comment1.target=int\ getMaxStringWidth()
+comment2.target=s
+comment3.params=g
+comment3.target=void\ paint(Graphics)
+comment4.params=
+comment4.target=void\ init()
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=class\ GoatsBladder
+comment1.target=rng
+comment10.target=x
+comment11.params=
+comment11.target=void\ destroy()
+comment12.params=g
+comment12.target=void\ paint1(Graphics)
+comment13.params=
+comment13.target=void\ init()
+comment14.target=t
+comment2.params=e
+comment2.target=void\ keyPressed(KeyEvent)
+comment3.params=
+comment3.target=void\ activateThread()
+comment4.params=
+comment4.target=void\ run()
+comment5.target=i
+comment6.params=e
+comment6.target=void\ keyReleased(KeyEvent)
+comment7.target=str
+comment8.target=y
+comment9.params=e
+comment9.target=void\ keyTyped(KeyEvent)
+numComments=15

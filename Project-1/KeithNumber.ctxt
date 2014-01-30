@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=class\ KeithNumber
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=n\ arr
+comment2.target=boolean\ checkKeith(int,int[])
+comment3.params=ch
+comment3.target=int\ getInt(char)
+comment4.params=arr
+comment4.target=int\ getNum(int[])
+comment5.params=s
+comment5.target=int[]\ input(String)
+comment6.params=a\ x
+comment6.target=int[]\ addToTop(int[],int)
+comment7.params=arr
+comment7.target=int\ sum(int[])
+numComments=8

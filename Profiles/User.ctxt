@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=class\ User
+comment1.target=a
+comment2.target=name
+comment3.target=contacts
+comment4.params=
+comment4.target=String\ info()
+comment5.target=dob
+comment6.params=
+comment6.target=void\ dispInfo()
+comment7.params=
+comment7.target=User()
+comment8.target=emails
+numComments=9

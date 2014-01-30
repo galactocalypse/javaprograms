@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ bg
+comment0.target=AC(int,\ int,\ int,\ int,\ Image)
+comment1.target=Image\ getBg()
+comment2.params=g1\ io
+comment2.target=void\ paint(Graphics,\ Applet)
+numComments=3

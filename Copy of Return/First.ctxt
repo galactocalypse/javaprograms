@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main([)
+comment1.target=void\ takeVals()
+comment2.params=e
+comment2.target=void\ actionPerformed(ActionEvent)
+comment3.target=double\ getTotal()
+comment4.target=double\ getGTotal()
+comment5.params=q\ r\ p
+comment5.target=double\ getAmt(int,\ double,\ double)
+comment6.params=s
+comment6.target=boolean\ checkD(String)
+comment7.params=s
+comment7.target=boolean\ checkI(String)
+numComments=8

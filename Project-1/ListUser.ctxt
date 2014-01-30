@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ ListUser
+comment1.params=
+comment1.target=boolean\ cont()
+comment2.params=args
+comment2.target=void\ main(String[])
+comment3.params=s
+comment3.target=int\ input(String)
+comment4.params=
+comment4.target=int\ menu()
+numComments=5

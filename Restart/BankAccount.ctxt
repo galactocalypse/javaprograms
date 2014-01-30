@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ BankAccount
+comment1.params=d
+comment1.target=void\ deposit(double)
+comment2.params=amt
+comment2.target=void\ withdraw(double)
+comment3.target=balance
+comment4.target=ownersName
+comment5.target=accountNumber
+comment6.params=
+comment6.target=double\ getBalance()
+numComments=7

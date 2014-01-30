@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ LED
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=n
+comment2.target=String[]\ getCS(int[])
+comment3.params=num
+comment3.target=String[]\ getStrings(int)
+comment4.params=
+comment4.target=void\ disp()
+comment5.params=
+comment5.target=void\ run()
+numComments=6

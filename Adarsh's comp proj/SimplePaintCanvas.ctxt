@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SimplePaintCanvas()
+comment1.params=evt
+comment1.target=void\ actionPerformed(ActionEvent)
+comment2.target=Color\ getCurrentColor()
+comment3.params=evt
+comment3.target=void\ mousePressed(MouseEvent)
+comment4.params=evt
+comment4.target=void\ mouseReleased(MouseEvent)
+comment5.params=evt
+comment5.target=void\ mouseDragged(MouseEvent)
+comment6.params=evt
+comment6.target=void\ mouseEntered(MouseEvent)
+comment7.params=evt
+comment7.target=void\ mouseExited(MouseEvent)
+comment8.params=evt
+comment8.target=void\ mouseClicked(MouseEvent)
+comment9.params=evt
+comment9.target=void\ mouseMoved(MouseEvent)
+numComments=10

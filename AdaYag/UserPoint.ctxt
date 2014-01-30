@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ UserPoint
+comment1.target=b
+comment2.target=a
+comment3.params=a\ b\ ang
+comment3.target=UserPoint(int,int,int)
+comment4.params=
+comment4.target=UserPoint()
+comment5.target=angle
+comment6.params=
+comment6.target=void\ update()
+numComments=7

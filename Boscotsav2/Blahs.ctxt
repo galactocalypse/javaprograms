@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=class\ Blahs
+comment1.target=img
+comment2.params=g1
+comment2.target=void\ paint(Graphics)
+comment3.params=
+comment3.target=void\ init()
+numComments=4

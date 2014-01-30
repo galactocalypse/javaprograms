@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g1
+comment1.target=void\ paint(Graphics)
+comment2.params=l
+comment2.target=double\ getInc(Line2D)
+comment3.params=x\ y\ x1\ y1
+comment3.target=double\ getInc(double,\ double,\ double,\ double)
+comment4.params=l\ p1\ dist
+comment4.target=Point2D\ getPt(Line2D,\ Point2D,\ double)
+comment5.params=p1\ p2
+comment5.target=double\ dist(Point2D,\ Point2D)
+numComments=6

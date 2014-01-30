@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=part
+comment0.target=void\ addPart(Parts)
+comment1.target=void\ updateComps()
+comment2.params=comp
+comment2.target=void\ addComp(Component)
+comment3.target=Component[]\ getComp()
+numComments=4

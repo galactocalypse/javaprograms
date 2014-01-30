@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=class\ Demon
+comment1.target=arc
+comment10.params=e
+comment10.target=void\ mouseExited(MouseEvent)
+comment11.params=
+comment11.target=void\ init()
+comment2.params=e
+comment2.target=void\ mousePressed(MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseEntered(MouseEvent)
+comment4.params=g1
+comment4.target=void\ paint(Graphics)
+comment5.params=e
+comment5.target=void\ mouseClicked(MouseEvent)
+comment6.params=e
+comment6.target=void\ mouseDragged(MouseEvent)
+comment7.params=e
+comment7.target=void\ mouseReleased(MouseEvent)
+comment8.params=e
+comment8.target=void\ mouseMoved(MouseEvent)
+comment9.target=rect
+numComments=12

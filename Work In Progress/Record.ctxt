@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=String[]\ getData()
+comment1.params=i
+comment1.target=void\ clear(int)
+comment2.target=void\ clearAll()
+numComments=3

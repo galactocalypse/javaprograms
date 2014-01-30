@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ StringMan
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=str
+comment2.target=void\ compute(String)
+comment3.params=s
+comment3.target=String\ arrange(String)
+comment4.params=str
+comment4.target=String\ getVows(String)
+numComments=5

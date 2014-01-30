@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ Writer
+comment1.params=s
+comment1.target=void\ sop(String)
+comment2.params=s
+comment2.target=void\ sopln(String)
+comment3.params=f
+comment3.target=void\ createDirectory(File)
+comment4.params=u
+comment4.target=void\ writeElements(ElementList)
+comment5.params=s\ f
+comment5.target=void\ write(String[],File)
+comment6.params=f
+comment6.target=void\ createFile(File)
+comment7.params=f
+comment7.target=void\ createFiles(File[])
+comment8.params=f
+comment8.target=void\ createDirectories(File[])
+numComments=9

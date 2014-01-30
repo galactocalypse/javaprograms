@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=class\ Anim
+comment1.params=e
+comment1.target=void\ mousePressed(MouseEvent)
+comment10.target=a
+comment11.params=
+comment11.target=void\ destroy()
+comment12.target=w
+comment13.params=e
+comment13.target=void\ mouseExited(MouseEvent)
+comment14.params=
+comment14.target=void\ init()
+comment15.target=t
+comment2.params=e
+comment2.target=void\ mouseEntered(MouseEvent)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=e
+comment4.target=void\ mouseClicked(MouseEvent)
+comment5.params=g1
+comment5.target=void\ paint(Graphics)
+comment6.target=h
+comment7.target=running
+comment8.params=e
+comment8.target=void\ mouseReleased(MouseEvent)
+comment9.target=condition1
+numComments=16

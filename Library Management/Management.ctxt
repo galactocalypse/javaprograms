@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=class\ Management
+comment1.params=f
+comment1.target=String[]\ read(File)
+comment10.params=
+comment10.target=void\ load()
+comment11.params=f
+comment11.target=Member\ getMember(File)
+comment12.params=s\ f
+comment12.target=void\ write(String,File)
+comment2.target=m
+comment3.params=
+comment3.target=void\ displayAvailableBooks()
+comment4.params=s
+comment4.target=int\ inputNum(String)
+comment5.params=
+comment5.target=void\ borrow()
+comment6.target=b
+comment7.params=s
+comment7.target=String\ input(String)
+comment8.params=
+comment8.target=void\ store()
+comment9.params=
+comment9.target=void\ returnbook()
+numComments=13

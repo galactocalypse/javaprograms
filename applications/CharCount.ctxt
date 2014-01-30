@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CharCount()
+comment1.target=void\ accept()
+comment2.target=void\ count()
+comment3.params=c
+comment3.target=void\ rem(char)
+comment4.target=void\ main()
+numComments=5

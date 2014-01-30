@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Parts()
+comment1.params=p\ q\ rt\ amt
+comment1.target=Parts(String,\ int,\ double,\ double)
+numComments=2

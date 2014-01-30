@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ DateExample
+comment0.text=\n-----------------------------------------------------------------------------\nUsed\ to\ provide\ an\ example\ that\ exercises\ most\ of\ the\ functionality\ of\ the\ \njava.util.Date\ class.\ \ A\ Date\ object\ represents\ a\ precise\ moment\ in\ time,\ \ndown\ to\ the\ millisecond.\ Dates\ are\ represented\ as\ a\ long\ that\ counts\ the\ \nnumber\ of\ milliseconds\ since\ midnight,\ January\ 1,\ 1970,\ Greenwich\ Meantime.\n\n@version\ 1.0\n@author\ \ Jeffrey\ M.\ Hunter\ \ (jhunter@idevelopment.info)\n@author\ \ http\://www.idevelopment.info\n-----------------------------------------------------------------------------\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s
+comment2.target=void\ prt(String)
+comment2.text=\nHelper\ utility\ used\ to\ print\na\ String\ to\ STDOUT.\n@param\ s\ String\ that\ will\ be\ printed\ to\ STDOUT.\n\n
+comment3.params=
+comment3.target=void\ prt()
+comment4.params=
+comment4.target=void\ doDateExample()
+numComments=5

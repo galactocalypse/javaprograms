@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=class\ StringProcessing
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s
+comment2.target=String\ input(String)
+comment3.params=s\ ptr\ ch
+comment3.target=String[]\ insert(String[],int,char)
+comment4.params=s
+comment4.target=String\ getStr(String[])
+comment5.params=s\ c
+comment5.target=String\ process(String[],String)
+comment6.params=s\ ptr
+comment6.target=String[]\ delete(String[],int)
+numComments=7

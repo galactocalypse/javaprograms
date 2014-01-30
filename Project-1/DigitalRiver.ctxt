@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ DigitalRiver
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=s
+comment2.target=int\ input(String)
+comment3.params=x
+comment3.target=int\ sod(int)
+comment4.params=a\ n
+comment4.target=boolean\ meets(int,int)
+comment5.params=n
+comment5.target=int\ getMeetingPoint(int)
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=rsp\ r\ initang
+comment0.target=PtrRes(Point2D,\ double,\ double)
+comment1.params=deg
+comment1.target=void\ rotate(int)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s\ f
+comment0.target=boolean\ write(String,\ File)
+comment1.params=f
+comment1.target=String\ read(File)
+comment2.params=f
+comment2.target=String[]\ readParts(File)
+comment3.params=args
+comment3.target=void\ main([)
+comment4.params=f
+comment4.target=List\ getValues(File)
+numComments=5

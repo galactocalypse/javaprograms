@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+c:\sun\appserver\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+D:\Adarsh's Documents\Java\Restart\doc
+-classpath
+C:\BlueJ\lib\junit.jar
+D:\Adarsh's Documents\Java\Restart\Stats.java
+<---- end of javadoc command ---->
+Loading source file D:\Adarsh's Documents\Java\Restart\Stats.java...
+Constructing Javadoc information...
+D:\Adarsh's Documents\Java\Restart\Stats.java:5: cannot resolve symbol
+symbol  : class User 
+location: class Stats
+User loggedUser;
+^
+D:\Adarsh's Documents\Java\Restart\Stats.java:18: cannot resolve symbol
+symbol  : class User 
+location: class Stats
+public User getLoggedUser(){
+       ^
+Standard Doclet version 1.4.2_04
+Generating D:\Adarsh's Documents\Java\Restart\doc\constant-values.html...
+Building tree for all the packages and classes...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\Adarsh's Documents\Java\Restart\doc\allclasses-frame.html...
+Generating D:\Adarsh's Documents\Java\Restart\doc\allclasses-noframe.html...
+Generating D:\Adarsh's Documents\Java\Restart\doc\index.html...
+Generating D:\Adarsh's Documents\Java\Restart\doc\packages.html...
+Generating D:\Adarsh's Documents\Java\Restart\doc\Stats.html...
+Generating D:\Adarsh's Documents\Java\Restart\doc\package-list...
+Generating D:\Adarsh's Documents\Java\Restart\doc\stylesheet.css...
+2 warnings

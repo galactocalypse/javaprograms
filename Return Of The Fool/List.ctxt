@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=List()
+comment1.params=v
+comment1.target=void\ add(Value)
+comment2.params=v
+comment2.target=void\ delete(Value)
+comment3.params=s
+comment3.target=List\ searchAll(String)
+comment4.params=str\ s
+comment4.target=boolean\ beginsWith(String,\ String)
+numComments=5

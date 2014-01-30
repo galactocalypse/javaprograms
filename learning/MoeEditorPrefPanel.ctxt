@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=class\ MoeEditorPrefPanel
+comment0.text=lnteractively\ add\ a\ new\ library\nto\ the\ browser.\ \ The\ new\ library\ can\ be\ specified\ as\ a\ file\ (ZIP\ or\ JAR\narchive)\ with\ an\ associated\ description.\n\n@author\ Andrew\ Patterson\n@version\ $Id\:\ MoeEditorPrefPanel.java\ 6163\ 2009-02-19\ 18\:09\:55Z\ polle\ $\n
+comment1.params=
+comment1.target=void\ beginEditing()
+comment2.params=
+comment2.target=void\ commitEditing()
+comment3.params=
+comment3.target=void\ revertEditing()
+comment4.params=
+comment4.target=MoeEditorPrefPanel()
+comment4.text=\nSetup\ the\ UI\ for\ the\ dialog\ and\ event\ handlers\ for\ the\ dialog's\ buttons.\n\n@param\ title\ the\ title\ of\ the\ dialog\n\n
+comment5.target=sizeField
+numComments=6
